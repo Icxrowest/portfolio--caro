@@ -43,4 +43,13 @@ article a {
 
 article a:hover {
     text-decoration: underline;
+} 
+
+#contato a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#contato a:hover {
+    text-decoration: underline;
 }
